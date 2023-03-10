@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kevintu888
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning PostgreSQL and ML/AI
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kevin Tu
+- 👀 I’m interested in running
+- 🌱 I’m currently learning ML/AI
+- 💞️ I’m looking to collaborate on Python project on big data analytics
 - 📫 How to reach me ...
 
 <!---
